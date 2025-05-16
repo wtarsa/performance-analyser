@@ -1,0 +1,150 @@
+Testing 10 producers, 10 consumers, message size: 1KB
+Finished in 2.85 seconds, Messages per second: 14023.29
+Average system latency: 0.3860 seconds
+Testing 10 producers, 10 consumers, message size: 1MB
+Finished in 89.54 seconds, Messages per second: 22.34
+Average system latency: 0.1725 seconds
+Testing 10 producers, 20 consumers, message size: 1KB
+Finished in 3.56 seconds, Messages per second: 11238.78
+Average system latency: 1.1071 seconds
+Testing 10 producers, 20 consumers, message size: 1MB
+Finished in 90.22 seconds, Messages per second: 22.17
+Average system latency: 0.4021 seconds
+Testing 10 producers, 30 consumers, message size: 1KB
+Finished in 4.05 seconds, Messages per second: 9871.59
+Average system latency: 1.8159 seconds
+Testing 10 producers, 30 consumers, message size: 1MB
+Finished in 89.77 seconds, Messages per second: 22.28
+Average system latency: 0.5271 seconds
+Testing 10 producers, 40 consumers, message size: 1KB
+Finished in 4.95 seconds, Messages per second: 8083.61
+Average system latency: 2.4503 seconds
+Testing 10 producers, 40 consumers, message size: 1MB
+Finished in 91.65 seconds, Messages per second: 21.82
+Average system latency: 0.7999 seconds
+Testing 10 producers, 50 consumers, message size: 1KB
+Finished in 6.92 seconds, Messages per second: 5778.69
+Average system latency: 3.0938 seconds
+Testing 10 producers, 50 consumers, message size: 1MB
+Finished in 93.89 seconds, Messages per second: 21.30
+Average system latency: 0.8803 seconds
+Testing 20 producers, 10 consumers, message size: 1KB
+Finished in 5.73 seconds, Messages per second: 13955.32
+Average system latency: 2.4378 seconds
+Testing 20 producers, 10 consumers, message size: 1MB
+Finished in 187.02 seconds, Messages per second: 21.39
+Average system latency: 0.2037 seconds
+Testing 20 producers, 20 consumers, message size: 1KB
+Finished in 7.06 seconds, Messages per second: 11331.70
+Average system latency: 3.4861 seconds
+Testing 20 producers, 20 consumers, message size: 1MB
+Finished in 181.60 seconds, Messages per second: 22.03
+Average system latency: 0.3859 seconds
+Testing 20 producers, 30 consumers, message size: 1KB
+Finished in 7.56 seconds, Messages per second: 10585.20
+Average system latency: 3.4853 seconds
+Testing 20 producers, 30 consumers, message size: 1MB
+Finished in 182.63 seconds, Messages per second: 21.90
+Average system latency: 1.0690 seconds
+Testing 20 producers, 40 consumers, message size: 1KB
+Finished in 8.29 seconds, Messages per second: 9648.72
+Average system latency: 3.7012 seconds
+Testing 20 producers, 40 consumers, message size: 1MB
+Finished in 184.21 seconds, Messages per second: 21.71
+Average system latency: 0.7405 seconds
+Testing 20 producers, 50 consumers, message size: 1KB
+Finished in 10.36 seconds, Messages per second: 7721.72
+Average system latency: 5.3512 seconds
+Testing 20 producers, 50 consumers, message size: 1MB
+Finished in 233.06 seconds, Messages per second: 17.16
+Average system latency: 0.9497 seconds
+Testing 30 producers, 10 consumers, message size: 1KB
+Finished in 18.89 seconds, Messages per second: 6351.23
+Average system latency: 3.6777 seconds
+Testing 30 producers, 10 consumers, message size: 1MB
+Finished in 285.00 seconds, Messages per second: 21.05
+Average system latency: 0.1840 seconds
+Testing 30 producers, 20 consumers, message size: 1KB
+Finished in 11.00 seconds, Messages per second: 10908.35
+Average system latency: 2.9313 seconds
+Testing 30 producers, 20 consumers, message size: 1MB
+Finished in 316.42 seconds, Messages per second: 18.96
+Average system latency: 0.3786 seconds
+Testing 30 producers, 30 consumers, message size: 1KB
+Finished in 36.22 seconds, Messages per second: 3312.78
+Average system latency: 10.6400 seconds
+Testing 30 producers, 30 consumers, message size: 1MB
+Finished in 308.14 seconds, Messages per second: 19.47
+Average system latency: 0.6147 seconds
+Testing 30 producers, 40 consumers, message size: 1KB
+Finished in 13.98 seconds, Messages per second: 8584.94
+Average system latency: 5.3246 seconds
+Testing 30 producers, 40 consumers, message size: 1MB
+Finished in 663.88 seconds, Messages per second: 9.04
+Average system latency: 28.8987 seconds
+Testing 30 producers, 50 consumers, message size: 1KB
+Finished in 17.21 seconds, Messages per second: 6973.57
+Average system latency: 6.6154 seconds
+Testing 30 producers, 50 consumers, message size: 1MB
+Finished in 389.01 seconds, Messages per second: 15.42
+Average system latency: 57.6489 seconds
+Testing 40 producers, 10 consumers, message size: 1KB
+Finished in 12.61 seconds, Messages per second: 12683.71
+Average system latency: 4.6304 seconds
+Testing 40 producers, 10 consumers, message size: 1MB
+Finished in 481.88 seconds, Messages per second: 16.60
+Average system latency: 0.2205 seconds
+Testing 40 producers, 20 consumers, message size: 1KB
+Finished in 14.99 seconds, Messages per second: 10673.63
+Average system latency: 4.9423 seconds
+Testing 40 producers, 20 consumers, message size: 1MB
+Finished in 471.95 seconds, Messages per second: 16.95
+Average system latency: 0.4321 seconds
+Testing 40 producers, 30 consumers, message size: 1KB
+Finished in 95.47 seconds, Messages per second: 1675.92
+Average system latency: 23.1719 seconds
+Testing 40 producers, 30 consumers, message size: 1MB
+Finished in 601.75 seconds, Messages per second: 13.29
+Average system latency: 0.6762 seconds
+Testing 40 producers, 40 consumers, message size: 1KB
+Finished in 3.28 seconds, Messages per second: 12179.56
+Average system latency: 0.6915 seconds
+Testing 40 producers, 40 consumers, message size: 1MB
+Finished in 91.43 seconds, Messages per second: 21.87
+Average system latency: 0.6282 seconds
+Testing 40 producers, 50 consumers, message size: 1KB
+Finished in 3.70 seconds, Messages per second: 10804.62
+Average system latency: 0.9871 seconds
+Testing 40 producers, 50 consumers, message size: 1MB
+Finished in 91.63 seconds, Messages per second: 21.83
+Average system latency: 0.8814 seconds
+Testing 50 producers, 10 consumers, message size: 1KB
+Finished in 3.33 seconds, Messages per second: 15020.72
+Average system latency: 0.1706 seconds
+Testing 50 producers, 10 consumers, message size: 1MB
+Finished in 113.15 seconds, Messages per second: 22.09
+Average system latency: 0.1552 seconds
+Testing 50 producers, 20 consumers, message size: 1KB
+Finished in 3.58 seconds, Messages per second: 13965.66
+Average system latency: 0.4124 seconds
+Testing 50 producers, 20 consumers, message size: 1MB
+Finished in 113.07 seconds, Messages per second: 22.11
+Average system latency: 0.3321 seconds
+Testing 50 producers, 30 consumers, message size: 1KB
+Finished in 3.91 seconds, Messages per second: 12798.12
+Average system latency: 0.6384 seconds
+Testing 50 producers, 30 consumers, message size: 1MB
+Finished in 114.32 seconds, Messages per second: 21.87
+Average system latency: 0.4903 seconds
+Testing 50 producers, 40 consumers, message size: 1KB
+Finished in 4.20 seconds, Messages per second: 11896.78
+Average system latency: 0.9087 seconds
+Testing 50 producers, 40 consumers, message size: 1MB
+Finished in 113.96 seconds, Messages per second: 21.94
+Average system latency: 0.6207 seconds
+Testing 50 producers, 50 consumers, message size: 1KB
+Finished in 4.57 seconds, Messages per second: 10944.91
+Average system latency: 1.1439 seconds
+Testing 50 producers, 50 consumers, message size: 1MB
+Finished in 118.92 seconds, Messages per second: 21.02
+Average system latency: 0.7756 seconds

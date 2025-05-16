@@ -19,6 +19,11 @@ repositories {
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
+    implementation 'org.apache.kafka:kafka-streams'
+    implementation 'org.springframework.amqp:spring-rabbit-stream'
+    implementation 'org.springframework.kafka:spring-kafka'
+    implementation 'com.rabbitmq:amqp-client:5.23.0'
+    implementation 'org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }

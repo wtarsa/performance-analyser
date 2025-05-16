@@ -1,0 +1,2 @@
+[2025-01-09 00:00:44,404] INFO Unable to read additional data from client, it probably closed the socket: address = /[0:0:0:0:0:0:0:1]:51942, session = 0x100ca36f4630005 (org.apache.zookeeper.server.NIOServerCnxn)
+[2025-01-09 00:01:06,363] INFO Expiring session 0x100ca36f4630005, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)

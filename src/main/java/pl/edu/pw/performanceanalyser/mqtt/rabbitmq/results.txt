@@ -1,0 +1,157 @@
+Running test for RabbitMQ with 1 producers, 1 consumers, 1024 byte message size
+Throughput: 2164.5021645021648 messages/sec
+Latency: 32851167 ns
+Running test for RabbitMQ with 1 producers, 1 consumers, 1048576 byte message size
+Throughput: 66.13756613756614 messages/sec
+Latency: 20268459 ns
+Running test for RabbitMQ with 1 producers, 5 consumers, 1024 byte message size
+Throughput: 908.5402786190187 messages/sec
+Latency: 15684875 ns
+Running test for RabbitMQ with 1 producers, 5 consumers, 1048576 byte message size
+Throughput: 33.090668431502316 messages/sec
+Latency: 38566708 ns
+Running test for RabbitMQ with 1 producers, 10 consumers, 1024 byte message size
+Throughput: 654.59306131355 messages/sec
+Latency: 10982292 ns
+Running test for RabbitMQ with 1 producers, 10 consumers, 1048576 byte message size
+Throughput: 22.33139794551139 messages/sec
+Latency: 43262917 ns
+Running test for RabbitMQ with 5 producers, 1 consumers, 1024 byte message size
+Throughput: 1379.9448022079118 messages/sec
+Latency: 14545583 ns
+Running test for RabbitMQ with 5 producers, 1 consumers, 1048576 byte message size
+Throughput: 62.924742008557764 messages/sec
+Latency: 63372875 ns
+Running test for RabbitMQ with 5 producers, 5 consumers, 1024 byte message size
+Throughput: 532.3679727427598 messages/sec
+Latency: 15662041 ns
+Running test for RabbitMQ with 5 producers, 5 consumers, 1048576 byte message size
+Throughput: 61.85056902523503 messages/sec
+Latency: 76380000 ns
+Running test for RabbitMQ with 5 producers, 10 consumers, 1024 byte message size
+Throughput: 412.12187817677284 messages/sec
+Latency: 16957792 ns
+Running test for RabbitMQ with 5 producers, 10 consumers, 1048576 byte message size
+Throughput: 60.805058980907205 messages/sec
+Latency: 75238958 ns
+Running test for RabbitMQ with 10 producers, 1 consumers, 1024 byte message size
+Throughput: 555.2984729291994 messages/sec
+Latency: 13275000 ns
+Running test for RabbitMQ with 10 producers, 1 consumers, 1048576 byte message size
+Throughput: 67.79661016949153 messages/sec
+Latency: 83655708 ns
+Running test for RabbitMQ with 10 producers, 5 consumers, 1024 byte message size
+Throughput: 480.5843906189927 messages/sec
+Latency: 42129292 ns
+Running test for RabbitMQ with 10 producers, 5 consumers, 1048576 byte message size
+Throughput: 66.30420368651372 messages/sec
+Latency: 78274167 ns
+Running test for RabbitMQ with 10 producers, 10 consumers, 1024 byte message size
+Throughput: 376.21328785332696 messages/sec
+Latency: 39328375 ns
+Running test for RabbitMQ with 10 producers, 10 consumers, 1048576 byte message size
+Throughput: 64.54111268878276 messages/sec
+Latency: 82359458 ns
+
+Testing scalability for RabbitMQ, 1024 byte message size
+Testing with 10 producers and 10 consumers.
+Throughput: 3531.073446327684 messages/sec
+Testing with 10 producers and 20 consumers.
+Throughput: 6830.601092896175 messages/sec
+Testing with 10 producers and 30 consumers.
+Throughput: 5827.505827505827 messages/sec
+Testing with 10 producers and 40 consumers.
+Throughput: 6361.323155216285 messages/sec
+Testing with 10 producers and 50 consumers.
+Throughput: 5170.63081695967 messages/sec
+Testing with 20 producers and 10 consumers.
+Throughput: 8077.544426494346 messages/sec
+Testing with 20 producers and 20 consumers.
+Throughput: 8635.578583765113 messages/sec
+Testing with 20 producers and 30 consumers.
+Throughput: 8467.40050804403 messages/sec
+Testing with 20 producers and 40 consumers.
+Throughput: 7980.845969672786 messages/sec
+Testing with 20 producers and 50 consumers.
+Throughput: 7980.845969672786 messages/sec
+Testing with 30 producers and 10 consumers.
+Throughput: 8880.994671403198 messages/sec
+Testing with 30 producers and 20 consumers.
+Throughput: 8939.213349225269 messages/sec
+Testing with 30 producers and 30 consumers.
+Throughput: 8586.147681740125 messages/sec
+Testing with 30 producers and 40 consumers.
+Throughput: 7932.310946589107 messages/sec
+Testing with 30 producers and 50 consumers.
+Throughput: 8460.236886632827 messages/sec
+Testing with 40 producers and 10 consumers.
+Throughput: 8403.361344537816 messages/sec
+Testing with 40 producers and 20 consumers.
+Throughput: 8084.074373484235 messages/sec
+Testing with 40 producers and 30 consumers.
+Throughput: 7079.646017699115 messages/sec
+Testing with 40 producers and 40 consumers.
+Throughput: 9376.465072667605 messages/sec
+Testing with 40 producers and 50 consumers.
+Throughput: 8543.357539513028 messages/sec
+Testing with 50 producers and 10 consumers.
+Throughput: 8286.377195889958 messages/sec
+Testing with 50 producers and 20 consumers.
+Throughput: 8824.567596187786 messages/sec
+Testing with 50 producers and 30 consumers.
+Throughput: 8887.308922858158 messages/sec
+Testing with 50 producers and 40 consumers.
+Throughput: 6091.617933723197 messages/sec
+Testing with 50 producers and 50 consumers.
+Throughput: 8000.0 messages/sec
+Testing scalability for RabbitMQ, 1048576 byte message size
+Testing with 10 producers and 10 consumers.
+Throughput: 133.54700854700855 messages/sec
+Testing with 10 producers and 20 consumers.
+Throughput: 132.31013495633766 messages/sec
+Testing with 10 producers and 30 consumers.
+Throughput: 127.420998980632 messages/sec
+Testing with 10 producers and 40 consumers.
+Throughput: 129.63443090484833 messages/sec
+Testing with 10 producers and 50 consumers.
+Throughput: 131.1647429171039 messages/sec
+Testing with 20 producers and 10 consumers.
+Throughput: 131.37151865475565 messages/sec
+Testing with 20 producers and 20 consumers.
+Throughput: 129.38284383490748 messages/sec
+Testing with 20 producers and 30 consumers.
+Throughput: 129.5169019557052 messages/sec
+Testing with 20 producers and 40 consumers.
+Throughput: 125.45477355413374 messages/sec
+Testing with 20 producers and 50 consumers.
+Throughput: 127.68130745658836 messages/sec
+Testing with 30 producers and 10 consumers.
+Throughput: 126.43290627107214 messages/sec
+Testing with 30 producers and 20 consumers.
+Throughput: 126.32642748863061 messages/sec
+Testing with 30 producers and 30 consumers.
+Throughput: 128.4796573875803 messages/sec
+Testing with 30 producers and 40 consumers.
+Throughput: 125.52301255230127 messages/sec
+Testing with 30 producers and 50 consumers.
+Throughput: 126.33706729554451 messages/sec
+Testing with 40 producers and 10 consumers.
+Throughput: 123.74706100730108 messages/sec
+Testing with 40 producers and 20 consumers.
+Throughput: 123.65524916532708 messages/sec
+Testing with 40 producers and 30 consumers.
+Throughput: 125.76243476073697 messages/sec
+Testing with 40 producers and 40 consumers.
+Throughput: 123.70878950949464 messages/sec
+Testing with 40 producers and 50 consumers.
+Throughput: 124.34717731907486 messages/sec
+Testing with 50 producers and 10 consumers.
+Throughput: 122.327151734599 messages/sec
+Testing with 50 producers and 20 consumers.
+Throughput: 121.4417565335665 messages/sec
+Testing with 50 producers and 30 consumers.
+Throughput: 125.08130284685046 messages/sec
+Testing with 50 producers and 40 consumers.
+Throughput: 126.32642748863063 messages/sec
+Testing with 50 producers and 50 consumers.
+Throughput: 125.50830865003263 messages/sec

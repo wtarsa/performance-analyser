@@ -1,0 +1,133 @@
+(venv) wtarsa@Wiktors-MacBook-Pro kafka_mqtt % python3 mqtt_tests.py
+Testing 1 producers, 1 consumers, message size: 1KB
+Average latency: 0.0487 seconds
+Finished in 0.33 seconds, Messages per second: 11950.61
+Testing 1 producers, 1 consumers, message size: 1MB
+Average latency: 0.0629 seconds
+Finished in 8.61 seconds, Messages per second: 23.22
+Testing 1 producers, 5 consumers, message size: 1KB
+Average latency: 0.2039 seconds
+Average latency: 0.2319 seconds
+Average latency: 0.2497 seconds
+Average latency: 0.2576 seconds
+Average latency: 0.2518 seconds
+Finished in 0.56 seconds, Messages per second: 7116.69
+Testing 1 producers, 5 consumers, message size: 1MB
+Average latency: 0.0630 seconds
+Average latency: 0.0597 seconds
+Average latency: 0.0605 seconds
+Average latency: 0.1001 seconds
+Average latency: 0.0926 seconds
+Finished in 8.80 seconds, Messages per second: 22.74
+Testing 1 producers, 10 consumers, message size: 1KB
+Average latency: 0.3350 seconds
+Average latency: 0.3426 seconds
+Average latency: 0.4672 seconds
+Average latency: 0.4653 seconds
+Average latency: 0.4589 seconds
+Average latency: 0.4838 seconds
+Average latency: 0.4276 seconds
+Average latency: 0.4448 seconds
+Average latency: 0.5217 seconds
+Average latency: 0.4465 seconds
+Finished in 0.93 seconds, Messages per second: 4300.92
+Testing 1 producers, 10 consumers, message size: 1MB
+Average latency: 0.1375 seconds
+Average latency: 0.1204 seconds
+Average latency: 0.1941 seconds
+Average latency: 0.1391 seconds
+Average latency: 0.2690 seconds
+Average latency: 0.2778 seconds
+Average latency: 0.2354 seconds
+Average latency: 0.2521 seconds
+Average latency: 0.2789 seconds
+Average latency: 0.3106 seconds
+Finished in 9.06 seconds, Messages per second: 22.09
+Testing 5 producers, 1 consumers, message size: 1KB
+Average latency: 0.2038 seconds
+Finished in 1.35 seconds, Messages per second: 14851.49
+Testing 5 producers, 1 consumers, message size: 1MB
+Average latency: 0.2572 seconds
+Finished in 44.22 seconds, Messages per second: 22.62
+Testing 5 producers, 5 consumers, message size: 1KB
+Average latency: 0.3505 seconds
+Average latency: 0.3768 seconds
+Average latency: 0.3965 seconds
+Average latency: 0.3830 seconds
+Average latency: 0.3903 seconds
+Finished in 1.59 seconds, Messages per second: 12553.66
+Testing 5 producers, 5 consumers, message size: 1MB
+Average latency: 0.0708 seconds
+Average latency: 0.0730 seconds
+Average latency: 0.0750 seconds
+Average latency: 0.0778 seconds
+Average latency: 0.0829 seconds
+Finished in 44.01 seconds, Messages per second: 22.72
+Testing 5 producers, 10 consumers, message size: 1KB
+Average latency: 0.6031 seconds
+Average latency: 0.6295 seconds
+Average latency: 0.5924 seconds
+Average latency: 0.6127 seconds
+Average latency: 0.7127 seconds
+Average latency: 0.6594 seconds
+Average latency: 0.7126 seconds
+Average latency: 0.7419 seconds
+Average latency: 0.7243 seconds
+Average latency: 0.7686 seconds
+Finished in 1.84 seconds, Messages per second: 10857.82
+Testing 5 producers, 10 consumers, message size: 1MB
+Average latency: 0.2022 seconds
+Average latency: 0.2016 seconds
+Average latency: 0.2023 seconds
+Average latency: 0.2061 seconds
+Average latency: 0.2060 seconds
+Average latency: 0.2013 seconds
+Average latency: 0.2052 seconds
+Average latency: 0.2107 seconds
+Average latency: 0.1995 seconds
+Average latency: 0.2149 seconds
+Finished in 44.13 seconds, Messages per second: 22.66
+Testing 10 producers, 1 consumers, message size: 1KB
+Average latency: 0.4521 seconds
+Finished in 2.66 seconds, Messages per second: 15048.74
+Testing 10 producers, 1 consumers, message size: 1MB
+Average latency: 0.0277 seconds
+Finished in 89.83 seconds, Messages per second: 22.26
+Testing 10 producers, 5 consumers, message size: 1KB
+Average latency: 0.4601 seconds
+Average latency: 0.4474 seconds
+Average latency: 0.5424 seconds
+Average latency: 0.5506 seconds
+Average latency: 0.4994 seconds
+Finished in 2.93 seconds, Messages per second: 13671.89
+Testing 10 producers, 5 consumers, message size: 1MB
+Average latency: 0.0814 seconds
+Average latency: 0.0833 seconds
+Average latency: 0.0891 seconds
+Average latency: 0.0900 seconds
+Average latency: 0.1095 seconds
+Finished in 87.73 seconds, Messages per second: 22.80
+Testing 10 producers, 10 consumers, message size: 1KB
+Average latency: 0.5999 seconds
+Average latency: 0.6148 seconds
+Average latency: 0.5552 seconds
+Average latency: 0.6186 seconds
+Average latency: 0.6906 seconds
+Average latency: 0.7263 seconds
+Average latency: 0.7121 seconds
+Average latency: 0.7328 seconds
+Average latency: 0.7446 seconds
+Average latency: 0.7091 seconds
+Finished in 3.20 seconds, Messages per second: 12487.08
+Testing 10 producers, 10 consumers, message size: 1MB
+Average latency: 0.1632 seconds
+Average latency: 0.1679 seconds
+Average latency: 0.1670 seconds
+Average latency: 0.1704 seconds
+Average latency: 0.1732 seconds
+Average latency: 0.1847 seconds
+Average latency: 0.1756 seconds
+Average latency: 0.1793 seconds
+Average latency: 0.1889 seconds
+Average latency: 0.1910 seconds
+Finished in 87.72 seconds, Messages per second: 22.80
