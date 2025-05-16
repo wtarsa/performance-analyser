@@ -1,0 +1,162 @@
+wtarsa@Wiktors-MacBook-Pro kafka_2.13-3.8.0 % python3 automate_kafka_tests.py
+Running producer test with 1 producers, 1024B message size...
+Producer test completed successfully.
+100000 records sent, 64808.813999 records/sec (63.29 MB/sec), 370.64 ms avg latency, 646.00 ms max latency, 328 ms 50th, 615 ms 95th, 644 ms 99th, 646 ms 99.9th.
+
+Running consumer test with 1 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:08:09:918, 2025-01-04 13:08:10:382, 97.6563, 210.4661, 100000, 215517.2414, 168, 296, 329.9198, 337837.8378
+
+Running producer test with 1 producers, 1048575B message size...
+Producer test completed successfully.
+1000 records sent, 351.988736 records/sec (351.99 MB/sec), 3.80 ms avg latency, 139.00 ms max latency, 2 ms 50th, 9 ms 95th, 52 ms 99th, 139 ms 99.9th.
+
+Running consumer test with 1 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:08:16:060, 2025-01-04 13:08:17:536, 999.9990, 677.5061, 1000, 677.5068, 151, 1325, 754.7163, 754.7170
+
+Running producer test with 1 producers, 1024B message size...
+Producer test completed successfully.
+100000 records sent, 91911.764706 records/sec (89.76 MB/sec), 163.81 ms avg latency, 243.00 ms max latency, 174 ms 50th, 236 ms 95th, 240 ms 99th, 242 ms 99.9th.
+
+Running consumer test with 5 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:08:21:374, 2025-01-04 13:08:21:746, 97.6563, 262.5168, 100000, 268817.2043, 150, 222, 439.8930, 450450.4505
+
+Running producer test with 1 producers, 1048575B message size...
+Producer test completed successfully.
+1000 records sent, 352.485019 records/sec (352.48 MB/sec), 2.19 ms avg latency, 138.00 ms max latency, 2 ms 50th, 4 ms 95th, 10 ms 99th, 138 ms 99.9th.
+
+Running consumer test with 5 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:08:27:325, 2025-01-04 13:08:28:634, 999.9990, 763.9412, 1000, 763.9419, 152, 1157, 864.3034, 864.3042
+
+Running producer test with 1 producers, 1024B message size...
+Producer test completed successfully.
+100000 records sent, 99502.487562 records/sec (97.17 MB/sec), 48.69 ms avg latency, 145.00 ms max latency, 45 ms 50th, 113 ms 95th, 114 ms 99th, 115 ms 99.9th.
+
+Running consumer test with 10 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:08:32:371, 2025-01-04 13:08:32:743, 97.6563, 262.5168, 100000, 268817.2043, 147, 225, 434.0278, 444444.4444
+
+Running producer test with 1 producers, 1048575B message size...
+Producer test completed successfully.
+1000 records sent, 357.781753 records/sec (357.78 MB/sec), 2.03 ms avg latency, 138.00 ms max latency, 2 ms 50th, 4 ms 95th, 7 ms 99th, 138 ms 99.9th.
+
+Running consumer test with 10 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:08:38:313, 2025-01-04 13:08:39:557, 999.9990, 803.8578, 1000, 803.8585, 150, 1094, 914.0759, 914.0768
+
+Running producer test with 5 producers, 1024B message size...
+Producer test completed successfully.
+100000 records sent, 99502.487562 records/sec (97.17 MB/sec), 35.23 ms avg latency, 146.00 ms max latency, 5 ms 50th, 92 ms 95th, 93 ms 99th, 94 ms 99.9th.
+
+Running consumer test with 1 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:08:43:331, 2025-01-04 13:08:43:705, 97.6563, 261.1130, 100000, 267379.6791, 148, 226, 432.1073, 442477.8761
+
+Running producer test with 5 producers, 1048575B message size...
+Producer test completed successfully.
+1000 records sent, 353.857042 records/sec (353.86 MB/sec), 2.39 ms avg latency, 137.00 ms max latency, 2 ms 50th, 5 ms 95th, 19 ms 99th, 137 ms 99.9th.
+
+Running consumer test with 1 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:08:49:379, 2025-01-04 13:08:50:631, 999.9990, 798.7213, 1000, 798.7220, 156, 1096, 912.4079, 912.4088
+
+Running producer test with 5 producers, 1024B message size...
+Producer test completed successfully.
+100000 records sent, 99304.865938 records/sec (96.98 MB/sec), 44.01 ms avg latency, 144.00 ms max latency, 45 ms 50th, 98 ms 95th, 101 ms 99th, 103 ms 99.9th.
+
+Running consumer test with 5 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:08:54:482, 2025-01-04 13:08:54:845, 97.6563, 269.0255, 100000, 275482.0937, 149, 214, 456.3376, 467289.7196
+
+Running producer test with 5 producers, 1048575B message size...
+Producer test completed successfully.
+1000 records sent, 357.270454 records/sec (357.27 MB/sec), 1.95 ms avg latency, 144.00 ms max latency, 2 ms 50th, 4 ms 95th, 6 ms 99th, 144 ms 99.9th.
+
+Running consumer test with 5 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:09:00:415, 2025-01-04 13:09:01:694, 999.9990, 781.8601, 1000, 781.8608, 152, 1127, 887.3106, 887.3114
+
+Running producer test with 5 producers, 1024B message size...
+Producer test completed successfully.
+100000 records sent, 99403.578529 records/sec (97.07 MB/sec), 32.34 ms avg latency, 144.00 ms max latency, 13 ms 50th, 87 ms 95th, 90 ms 99th, 92 ms 99.9th.
+
+Running consumer test with 10 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:09:05:495, 2025-01-04 13:09:05:872, 97.6563, 259.0351, 100000, 265251.9894, 150, 227, 430.2037, 440528.6344
+
+Running producer test with 5 producers, 1048575B message size...
+Producer test completed successfully.
+1000 records sent, 357.270454 records/sec (357.27 MB/sec), 2.11 ms avg latency, 143.00 ms max latency, 2 ms 50th, 4 ms 95th, 9 ms 99th, 143 ms 99.9th.
+
+Running consumer test with 10 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:09:11:429, 2025-01-04 13:09:12:767, 999.9990, 747.3834, 1000, 747.3842, 151, 1187, 842.4592, 842.4600
+
+Running producer test with 10 producers, 1024B message size...
+Producer test completed successfully.
+100000 records sent, 99206.349206 records/sec (96.88 MB/sec), 33.43 ms avg latency, 144.00 ms max latency, 3 ms 50th, 90 ms 95th, 91 ms 99th, 92 ms 99.9th.
+
+Running consumer test with 1 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:09:16:515, 2025-01-04 13:09:16:889, 97.6563, 261.1130, 100000, 267379.6791, 151, 223, 437.9204, 448430.4933
+
+Running producer test with 10 producers, 1048575B message size...
+Producer test completed successfully.
+1000 records sent, 352.733686 records/sec (352.73 MB/sec), 1.90 ms avg latency, 141.00 ms max latency, 2 ms 50th, 3 ms 95th, 5 ms 99th, 141 ms 99.9th.
+
+Running consumer test with 1 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:09:22:535, 2025-01-04 13:09:23:817, 999.9990, 780.0305, 1000, 780.0312, 151, 1131, 884.1725, 884.1733
+
+Running producer test with 10 producers, 1024B message size...
+Producer test completed successfully.
+100000 records sent, 99304.865938 records/sec (96.98 MB/sec), 36.11 ms avg latency, 151.00 ms max latency, 18 ms 50th, 93 ms 95th, 96 ms 99th, 97 ms 99.9th.
+
+Running consumer test with 5 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:09:27:581, 2025-01-04 13:09:27:951, 97.6563, 263.9358, 100000, 270270.2703, 149, 221, 441.8835, 452488.6878
+
+Running producer test with 10 producers, 1048575B message size...
+Producer test completed successfully.
+1000 records sent, 356.633381 records/sec (356.63 MB/sec), 2.24 ms avg latency, 140.00 ms max latency, 2 ms 50th, 4 ms 95th, 18 ms 99th, 140 ms 99.9th.
+
+Running consumer test with 5 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:09:33:532, 2025-01-04 13:09:34:756, 999.9990, 816.9927, 1000, 816.9935, 195, 1029, 971.8164, 971.8173
+
+Running producer test with 10 producers, 1024B message size...
+Producer test completed successfully.
+100000 records sent, 99403.578529 records/sec (97.07 MB/sec), 36.14 ms avg latency, 147.00 ms max latency, 9 ms 50th, 99 ms 95th, 100 ms 99th, 102 ms 99.9th.
+
+Running consumer test with 10 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:09:38:540, 2025-01-04 13:09:38:901, 97.6563, 270.5159, 100000, 277008.3102, 151, 210, 465.0298, 476190.4762
+
+Running producer test with 10 producers, 1048575B message size...
+Producer test completed successfully.
+1000 records sent, 355.492357 records/sec (355.49 MB/sec), 2.18 ms avg latency, 139.00 ms max latency, 2 ms 50th, 5 ms 95th, 8 ms 99th, 139 ms 99.9th.
+
+Running consumer test with 10 consumers...
+Consumer test completed successfully.
+start.time, end.time, data.consumed.in.MB, MB.sec, data.consumed.in.nMsg, nMsg.sec, rebalance.time.ms, fetch.time.ms, fetch.MB.sec, fetch.nMsg.sec
+2025-01-04 13:09:44:479, 2025-01-04 13:09:45:766, 999.9990, 777.0000, 1000, 777.0008, 152, 1135, 881.0564, 881.0573

@@ -1,0 +1,404 @@
+
+[STARTING SCALABILITY TEST]
+
+[SCALABILITY TEST] Producers: 10, Consumers: 10, Message Size: 1024B
+Running test with 10 producers, 10 consumers, 1024B message size...
+Test completed successfully.
+id: test-170932-094, sending rate avg: 42683 msg/s
+id: test-170932-094, receiving rate avg: 42683 msg/s
+id: test-170932-094, consumer latency min/median/75th/95th/99th 36883/436928/594360/1122546/1472436 µs
+
+
+[SCALABILITY TEST] Producers: 10, Consumers: 20, Message Size: 1024B
+Running test with 10 producers, 20 consumers, 1024B message size...
+Test completed successfully.
+id: test-170942-853, sending rate avg: 42985 msg/s
+id: test-170942-853, receiving rate avg: 42985 msg/s
+id: test-170942-853, consumer latency min/median/75th/95th/99th 92286/649345/887789/1169863/1570556 µs
+
+
+[SCALABILITY TEST] Producers: 10, Consumers: 30, Message Size: 1024B
+Running test with 10 producers, 30 consumers, 1024B message size...
+Test completed successfully.
+id: test-170954-012, sending rate avg: 36706 msg/s
+id: test-170954-012, receiving rate avg: 36706 msg/s
+id: test-170954-012, consumer latency min/median/75th/95th/99th 41262/770662/961981/1314794/1626855 µs
+
+
+[SCALABILITY TEST] Producers: 10, Consumers: 40, Message Size: 1024B
+Running test with 10 producers, 40 consumers, 1024B message size...
+Test completed successfully.
+id: test-171005-216, sending rate avg: 37270 msg/s
+id: test-171005-216, receiving rate avg: 37270 msg/s
+id: test-171005-216, consumer latency min/median/75th/95th/99th 10036/437680/557680/754208/1018088 µs
+
+
+[SCALABILITY TEST] Producers: 10, Consumers: 50, Message Size: 1024B
+Running test with 10 producers, 50 consumers, 1024B message size...
+Test completed successfully.
+id: test-171016-205, sending rate avg: 35479 msg/s
+id: test-171016-205, receiving rate avg: 35479 msg/s
+id: test-171016-205, consumer latency min/median/75th/95th/99th 94394/545628/674895/886434/1058399 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 10, Message Size: 1024B
+Running test with 20 producers, 10 consumers, 1024B message size...
+Test completed successfully.
+id: test-171027-430, sending rate avg: 46089 msg/s
+id: test-171027-430, receiving rate avg: 46508 msg/s
+id: test-171027-430, consumer latency min/median/75th/95th/99th 80812/1415455/1741610/2547740/3107366 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 20, Message Size: 1024B
+Running test with 20 producers, 20 consumers, 1024B message size...
+Test completed successfully.
+id: test-171039-281, sending rate avg: 43917 msg/s
+id: test-171039-281, receiving rate avg: 43929 msg/s
+id: test-171039-281, consumer latency min/median/75th/95th/99th 38920/1206835/1567918/1923180/2209143 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 30, Message Size: 1024B
+Running test with 20 producers, 30 consumers, 1024B message size...
+Test completed successfully.
+id: test-171050-972, sending rate avg: 38626 msg/s
+id: test-171050-972, receiving rate avg: 39094 msg/s
+id: test-171050-972, consumer latency min/median/75th/95th/99th 66969/1575738/1953519/2690824/3384311 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 40, Message Size: 1024B
+Running test with 20 producers, 40 consumers, 1024B message size...
+Test completed successfully.
+id: test-171102-994, sending rate avg: 37733 msg/s
+id: test-171102-994, receiving rate avg: 38007 msg/s
+id: test-171102-994, consumer latency min/median/75th/95th/99th 95564/1323618/1701723/2349662/2838959 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 50, Message Size: 1024B
+Running test with 20 producers, 50 consumers, 1024B message size...
+Test completed successfully.
+id: test-171114-744, sending rate avg: 35838 msg/s
+id: test-171114-744, receiving rate avg: 36090 msg/s
+id: test-171114-744, consumer latency min/median/75th/95th/99th 134551/1447139/1825545/2336413/2605260 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 10, Message Size: 1024B
+Running test with 30 producers, 10 consumers, 1024B message size...
+Test completed successfully.
+id: test-171126-618, sending rate avg: 41484 msg/s
+id: test-171126-618, receiving rate avg: 43363 msg/s
+id: test-171126-618, consumer latency min/median/75th/95th/99th 102618/2491154/2990937/4097305/4934386 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 20, Message Size: 1024B
+Running test with 30 producers, 20 consumers, 1024B message size...
+Test completed successfully.
+id: test-171139-662, sending rate avg: 39963 msg/s
+id: test-171139-662, receiving rate avg: 41424 msg/s
+id: test-171139-662, consumer latency min/median/75th/95th/99th 177120/2389636/2781459/3303370/3639472 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 30, Message Size: 1024B
+Running test with 30 producers, 30 consumers, 1024B message size...
+Test completed successfully.
+id: test-171152-495, sending rate avg: 35409 msg/s
+id: test-171152-495, receiving rate avg: 35720 msg/s
+id: test-171152-495, consumer latency min/median/75th/95th/99th 136845/2826015/3355705/4273607/5917889 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 40, Message Size: 1024B
+Running test with 30 producers, 40 consumers, 1024B message size...
+Test completed successfully.
+id: test-171205-849, sending rate avg: 33947 msg/s
+id: test-171205-849, receiving rate avg: 34245 msg/s
+id: test-171205-849, consumer latency min/median/75th/95th/99th 58040/3896999/5235199/7211087/8403889 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 50, Message Size: 1024B
+Running test with 30 producers, 50 consumers, 1024B message size...
+Test completed successfully.
+id: test-171220-113, sending rate avg: 32848 msg/s
+id: test-171220-113, receiving rate avg: 33290 msg/s
+id: test-171220-113, consumer latency min/median/75th/95th/99th 76139/3013934/3652418/4359602/4927270 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 10, Message Size: 1024B
+Running test with 40 producers, 10 consumers, 1024B message size...
+Test completed successfully.
+id: test-171233-366, sending rate avg: 38640 msg/s
+id: test-171233-366, receiving rate avg: 41466 msg/s
+id: test-171233-366, consumer latency min/median/75th/95th/99th 261289/3390710/3890438/4610946/5228970 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 20, Message Size: 1024B
+Running test with 40 producers, 20 consumers, 1024B message size...
+Test completed successfully.
+id: test-171247-637, sending rate avg: 35314 msg/s
+id: test-171247-637, receiving rate avg: 37306 msg/s
+id: test-171247-637, consumer latency min/median/75th/95th/99th 187444/4065191/4725120/6863482/9091520 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 30, Message Size: 1024B
+Running test with 40 producers, 30 consumers, 1024B message size...
+Test completed successfully.
+id: test-171302-766, sending rate avg: 33325 msg/s
+id: test-171302-766, receiving rate avg: 35335 msg/s
+id: test-171302-766, consumer latency min/median/75th/95th/99th 1541578/4647243/5633191/7957651/8950773 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 40, Message Size: 1024B
+Running test with 40 producers, 40 consumers, 1024B message size...
+Test completed successfully.
+id: test-171317-997, sending rate avg: 32631 msg/s
+id: test-171317-997, receiving rate avg: 34767 msg/s
+id: test-171317-997, consumer latency min/median/75th/95th/99th 677719/4502990/5261796/7437883/8967503 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 50, Message Size: 1024B
+Running test with 40 producers, 50 consumers, 1024B message size...
+Test completed successfully.
+id: test-171333-435, sending rate avg: 33412 msg/s
+id: test-171333-435, receiving rate avg: 34682 msg/s
+id: test-171333-435, consumer latency min/median/75th/95th/99th 117073/4382124/5055645/6421610/7848700 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 10, Message Size: 1024B
+Running test with 50 producers, 10 consumers, 1024B message size...
+Test completed successfully.
+id: test-171348-598, sending rate avg: 39057 msg/s
+id: test-171348-598, receiving rate avg: 36901 msg/s
+id: test-171348-598, consumer latency min/median/75th/95th/99th 140943/5266063/6219032/8409357/9929077 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 20, Message Size: 1024B
+Running test with 50 producers, 20 consumers, 1024B message size...
+Test completed successfully.
+id: test-171404-827, sending rate avg: 35638 msg/s
+id: test-171404-827, receiving rate avg: 37754 msg/s
+id: test-171404-827, consumer latency min/median/75th/95th/99th 105800/4794298/5464640/6529403/8014602 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 30, Message Size: 1024B
+Running test with 50 producers, 30 consumers, 1024B message size...
+Test completed successfully.
+id: test-171420-133, sending rate avg: 35313 msg/s
+id: test-171420-133, receiving rate avg: 36417 msg/s
+id: test-171420-133, consumer latency min/median/75th/95th/99th 30784/5071156/5833853/7400326/10193240 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 40, Message Size: 1024B
+Running test with 50 producers, 40 consumers, 1024B message size...
+Test completed successfully.
+id: test-171435-643, sending rate avg: 33861 msg/s
+id: test-171435-643, receiving rate avg: 36254 msg/s
+id: test-171435-643, consumer latency min/median/75th/95th/99th 48111/5156966/5994027/7802893/10220402 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 50, Message Size: 1024B
+Running test with 50 producers, 50 consumers, 1024B message size...
+Test completed successfully.
+id: test-171451-399, sending rate avg: 30617 msg/s
+id: test-171451-399, receiving rate avg: 33443 msg/s
+id: test-171451-399, consumer latency min/median/75th/95th/99th 2064814/5556621/6379383/7509787/8306338 µs
+
+
+
+[STARTING SCALABILITY TEST]
+
+[SCALABILITY TEST] Producers: 10, Consumers: 10, Message Size: 1048576B
+Running test with 10 producers, 10 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174514-896, sending rate avg: 153 msg/s
+id: test-174514-896, receiving rate avg: 153 msg/s
+id: test-174514-896, consumer latency min/median/75th/95th/99th 24703/122289/199570/601624/1673140 µs
+
+
+[SCALABILITY TEST] Producers: 10, Consumers: 20, Message Size: 1048576B
+Running test with 10 producers, 20 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174525-846, sending rate avg: 165 msg/s
+id: test-174525-846, receiving rate avg: 165 msg/s
+id: test-174525-846, consumer latency min/median/75th/95th/99th 23746/111185/157931/453820/862228 µs
+
+
+[SCALABILITY TEST] Producers: 10, Consumers: 30, Message Size: 1048576B
+Running test with 10 producers, 30 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174536-584, sending rate avg: 178 msg/s
+id: test-174536-584, receiving rate avg: 178 msg/s
+id: test-174536-584, consumer latency min/median/75th/95th/99th 29318/161403/230062/865609/1641324 µs
+
+
+[SCALABILITY TEST] Producers: 10, Consumers: 40, Message Size: 1048576B
+Running test with 10 producers, 40 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174547-462, sending rate avg: 172 msg/s
+id: test-174547-462, receiving rate avg: 172 msg/s
+id: test-174547-462, consumer latency min/median/75th/95th/99th 22086/195830/305329/857015/1495986 µs
+
+
+[SCALABILITY TEST] Producers: 10, Consumers: 50, Message Size: 1048576B
+Running test with 10 producers, 50 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174558-388, sending rate avg: 168 msg/s
+id: test-174558-388, receiving rate avg: 168 msg/s
+id: test-174558-388, consumer latency min/median/75th/95th/99th 18278/149972/228692/665956/1422322 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 10, Message Size: 1048576B
+Running test with 20 producers, 10 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174609-290, sending rate avg: 168 msg/s
+id: test-174609-290, receiving rate avg: 168 msg/s
+id: test-174609-290, consumer latency min/median/75th/95th/99th 32917/283789/534411/1150063/2020480 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 20, Message Size: 1048576B
+Running test with 20 producers, 20 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174620-191, sending rate avg: 163 msg/s
+id: test-174620-191, receiving rate avg: 163 msg/s
+id: test-174620-191, consumer latency min/median/75th/95th/99th 33928/231148/477221/1261645/1852593 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 30, Message Size: 1048576B
+Running test with 20 producers, 30 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174631-221, sending rate avg: 167 msg/s
+id: test-174631-221, receiving rate avg: 167 msg/s
+id: test-174631-221, consumer latency min/median/75th/95th/99th 24099/285343/551136/1447993/2074137 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 40, Message Size: 1048576B
+Running test with 20 producers, 40 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174642-268, sending rate avg: 169 msg/s
+id: test-174642-268, receiving rate avg: 169 msg/s
+id: test-174642-268, consumer latency min/median/75th/95th/99th 19406/257171/451739/1145668/1783411 µs
+
+
+[SCALABILITY TEST] Producers: 20, Consumers: 50, Message Size: 1048576B
+Running test with 20 producers, 50 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174653-276, sending rate avg: 153 msg/s
+id: test-174653-276, receiving rate avg: 153 msg/s
+id: test-174653-276, consumer latency min/median/75th/95th/99th 36749/336811/598609/1298432/2073770 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 10, Message Size: 1048576B
+Running test with 30 producers, 10 consumers, 1048576B message size...
+id: test-174704-467, sending rate avg: 154 msg/s
+id: test-174704-467, receiving rate avg: 154 msg/s
+id: test-174704-467, consumer latency min/median/75th/95th/99th 21564/481371/864512/1556288/2466815 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 20, Message Size: 1048576B
+Running test with 30 producers, 20 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174715-684, sending rate avg: 143 msg/s
+id: test-174715-684, receiving rate avg: 143 msg/s
+id: test-174715-684, consumer latency min/median/75th/95th/99th 48139/458715/906816/1773543/2892885 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 30, Message Size: 1048576B
+Running test with 30 producers, 30 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174727-003, sending rate avg: 149 msg/s
+id: test-174727-003, receiving rate avg: 148 msg/s
+id: test-174727-003, consumer latency min/median/75th/95th/99th 56128/497071/984581/1888292/2783508 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 40, Message Size: 1048576B
+Running test with 30 producers, 40 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174738-380, sending rate avg: 141 msg/s
+id: test-174738-380, receiving rate avg: 141 msg/s
+id: test-174738-380, consumer latency min/median/75th/95th/99th 32150/392349/828774/1654990/2584780 µs
+
+
+[SCALABILITY TEST] Producers: 30, Consumers: 50, Message Size: 1048576B
+Running test with 30 producers, 50 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174749-613, sending rate avg: 131 msg/s
+id: test-174749-613, receiving rate avg: 131 msg/s
+id: test-174749-613, consumer latency min/median/75th/95th/99th 28834/702710/1227962/2070817/2748006 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 10, Message Size: 1048576B
+Running test with 40 producers, 10 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174801-531, sending rate avg: 141 msg/s
+id: test-174801-531, receiving rate avg: 141 msg/s
+id: test-174801-531, consumer latency min/median/75th/95th/99th 23071/1093949/1863872/3824842/4795345 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 20, Message Size: 1048576B
+Running test with 40 producers, 20 consumers, 1048576B message size...
+Test completed successfully.
+id: test-174813-210, sending rate avg: 144 msg/s
+id: test-174813-210, receiving rate avg: 144 msg/s
+id: test-174813-210, consumer latency min/median/75th/95th/99th 25156/699032/1190373/2051685/2661346 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 30, Message Size: 1048576B
+Running test with 40 producers, 30 consumers, 1048576B message size...
+Test completed successfully.
+id: test-180141-479, sending rate avg: 140 msg/s
+id: test-180141-479, receiving rate avg: 140 msg/s
+id: test-180141-479, consumer latency min/median/75th/95th/99th 65652/767398/1155620/1827451/2587340 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 40, Message Size: 1048576B
+Running test with 40 producers, 40 consumers, 1048576B message size...
+Test completed successfully.
+id: test-180153-056, sending rate avg: 137 msg/s
+id: test-180153-056, receiving rate avg: 137 msg/s
+id: test-180153-056, consumer latency min/median/75th/95th/99th 30588/889005/1303801/2051549/2869236 µs
+
+
+[SCALABILITY TEST] Producers: 40, Consumers: 50, Message Size: 1048576B
+Running test with 40 producers, 50 consumers, 1048576B message size...
+Test completed successfully.
+id: test-180204-768, sending rate avg: 112 msg/s
+id: test-180204-768, receiving rate avg: 111 msg/s
+id: test-180204-768, consumer latency min/median/75th/95th/99th 126141/927499/1266689/1904968/2456381 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 10, Message Size: 1048576B
+Running test with 50 producers, 10 consumers, 1048576B message size...
+Test completed successfully.
+id: test-192653-714, sending rate avg: 140 msg/s
+id: test-192653-714, receiving rate avg: 140 msg/s
+id: test-192653-714, consumer latency min/median/75th/95th/99th 19427/746332/1157236/1992401/2658456 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 20, Message Size: 1048576B
+Running test with 50 producers, 20 consumers, 1048576B message size...
+Test completed successfully.
+id: test-192705-609, sending rate avg: 172 msg/s
+id: test-192705-609, receiving rate avg: 172 msg/s
+id: test-192705-609, consumer latency min/median/75th/95th/99th 66236/624704/1026594/1720451/2259176 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 30, Message Size: 1048576B
+Running test with 50 producers, 30 consumers, 1048576B message size...
+Test completed successfully.
+id: test-180216-515, sending rate avg: 144 msg/s
+id: test-180216-515, receiving rate avg: 144 msg/s
+id: test-180216-515, consumer latency min/median/75th/95th/99th 77383/811636/1254891/2002423/2577066 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 40, Message Size: 1048576B
+Running test with 50 producers, 40 consumers, 1048576B message size...
+Test completed successfully.
+id: test-180228-187, sending rate avg: 148 msg/s
+id: test-180228-187, receiving rate avg: 148 msg/s
+id: test-180228-187, consumer latency min/median/75th/95th/99th 105307/805369/1201093/1941818/2706144 µs
+
+
+[SCALABILITY TEST] Producers: 50, Consumers: 50, Message Size: 1048576B
+Running test with 50 producers, 50 consumers, 1048576B message size...
+Test completed successfully.
+id: test-180601-170, sending rate avg: 131 msg/s
+id: test-180601-170, receiving rate avg: 131 msg/s
+id: test-180601-170, consumer latency min/median/75th/95th/99th 48087/825542/1304652/2270799/3377669 µs
+

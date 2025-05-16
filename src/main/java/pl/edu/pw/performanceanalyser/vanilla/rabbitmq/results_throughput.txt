@@ -1,0 +1,89 @@
+Running test with 1 producers, 1 consumers, 1024B message size...
+id: test-122804-748, sending rate avg: 55733 msg/s
+id: test-122804-748, receiving rate avg: 55712 msg/s
+id: test-122804-748, consumer latency min/median/75th/95th/99th 11250/72597/84278/111891/141956 µs
+
+Running test with 1 producers, 1 consumers, 1048576B message size...
+id: test-122815-213, sending rate avg: 234 msg/s
+id: test-122815-213, receiving rate avg: 234 msg/s
+id: test-122815-213, consumer latency min/median/75th/95th/99th 6465/7774/9272/14674/31358 µs
+
+Running test with 1 producers, 5 consumers, 1024B message size...
+id: test-122825-643, sending rate avg: 51632 msg/s
+id: test-122825-643, receiving rate avg: 51632 msg/s
+id: test-122825-643, consumer latency min/median/75th/95th/99th 9527/68054/81514/107516/142469 µs
+
+Running test with 1 producers, 5 consumers, 1048576B message size...
+id: test-122836-123, sending rate avg: 224 msg/s
+id: test-122836-123, receiving rate avg: 224 msg/s
+id: test-122836-123, consumer latency min/median/75th/95th/99th 6370/8279/9964/15422/24597 µs
+
+Running test with 1 producers, 10 consumers, 1024B message size...
+id: test-122846-573, sending rate avg: 52634 msg/s
+id: test-122846-573, receiving rate avg: 52634 msg/s
+id: test-122846-573, consumer latency min/median/75th/95th/99th 1996/65446/76635/101123/125536 µs
+
+Running test with 1 producers, 10 consumers, 1048576B message size...
+id: test-122857-182, sending rate avg: 246 msg/s
+id: test-122857-182, receiving rate avg: 246 msg/s
+id: test-122857-182, consumer latency min/median/75th/95th/99th 6264/7580/8804/12053/19316 µs
+
+Running test with 5 producers, 1 consumers, 1024B message size...
+id: test-122907-624, sending rate avg: 50443 msg/s
+id: test-122907-624, receiving rate avg: 50296 msg/s
+id: test-122907-624, consumer latency min/median/75th/95th/99th 145190/439071/602547/785807/864287 µs
+
+Running test with 5 producers, 1 consumers, 1048576B message size...
+id: test-122918-457, sending rate avg: 240 msg/s
+id: test-122918-457, receiving rate avg: 240 msg/s
+id: test-122918-457, consumer latency min/median/75th/95th/99th 11188/65130/100083/149357/410338 µs
+
+Running test with 5 producers, 5 consumers, 1024B message size...
+id: test-122928-941, sending rate avg: 53435 msg/s
+id: test-122928-941, receiving rate avg: 53435 msg/s
+id: test-122928-941, consumer latency min/median/75th/95th/99th 12027/239741/317635/478162/640896 µs
+
+Running test with 5 producers, 5 consumers, 1048576B message size...
+id: test-122939-618, sending rate avg: 231 msg/s
+id: test-122939-618, receiving rate avg: 231 msg/s
+id: test-122939-618, consumer latency min/median/75th/95th/99th 12018/70963/140803/990452/1582533 µs
+
+Running test with 5 producers, 10 consumers, 1024B message size...
+id: test-122950-345, sending rate avg: 48314 msg/s
+id: test-122950-345, receiving rate avg: 48314 msg/s
+id: test-122950-345, consumer latency min/median/75th/95th/99th 252/349092/432872/616403/721435 µs
+
+Running test with 5 producers, 10 consumers, 1048576B message size...
+id: test-123001-264, sending rate avg: 225 msg/s
+id: test-123001-264, receiving rate avg: 225 msg/s
+id: test-123001-264, consumer latency min/median/75th/95th/99th 7667/68409/88319/209180/492992 µs
+
+Running test with 10 producers, 1 consumers, 1024B message size...
+id: test-123011-857, sending rate avg: 50638 msg/s
+id: test-123011-857, receiving rate avg: 50526 msg/s
+id: test-123011-857, consumer latency min/median/75th/95th/99th 33446/831005/976471/1319522/1626709 µs
+
+Running test with 10 producers, 1 consumers, 1048576B message size...
+id: test-123022-882, sending rate avg: 92 msg/s
+id: test-123022-882, receiving rate avg: 57 msg/s
+id: test-123022-882, consumer latency min/median/75th/95th/99th 33929/1174120/1920632/2261526/2485404 µs
+
+Running test with 10 producers, 5 consumers, 1024B message size...
+id: test-124744-474, sending rate avg: 48816 msg/s
+id: test-124744-474, receiving rate avg: 48816 msg/s
+id: test-124744-474, consumer latency min/median/75th/95th/99th 60853/422342/593914/943870/1191478 µs
+
+Running test with 10 producers, 5 consumers, 1048576B message size...
+id: test-124755-367, sending rate avg: 211 msg/s
+id: test-124755-367, receiving rate avg: 200 msg/s
+id: test-124755-367, consumer latency min/median/75th/95th/99th 15013/133279/181265/628840/1217241 µs
+
+Running test with 10 producers, 10 consumers, 1024B message size...
+id: test-124806-210, sending rate avg: 47135 msg/s
+id: test-124806-210, receiving rate avg: 47135 msg/s
+id: test-124806-210, consumer latency min/median/75th/95th/99th 27404/668413/895327/1290997/1490889 µs
+
+Running test with 10 producers, 10 consumers, 1048576B message size...
+id: test-124817-167, sending rate avg: 213 msg/s
+id: test-124817-167, receiving rate avg: 212 msg/s
+id: test-124817-167, consumer latency min/median/75th/95th/99th 8185/163734/249378/724346/1461283 µs
